@@ -32,13 +32,9 @@ h2 {
 }
 
 .years,
-.day,
-.hour,
-.minute,
-.second {
+.days,
+.hours,
+.minutes,
+.seconds {
   font-size: 3rem;
-}
-
-.waiting {
-  height: 50vh;
 }
