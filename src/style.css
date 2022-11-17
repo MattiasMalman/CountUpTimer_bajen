@@ -14,7 +14,7 @@ h2 {
   padding: 3rem;
 }
 
-.coming-soon {
+.background {
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -24,7 +24,7 @@ h2 {
   background-size: 100%;
 }
 
-.countdown {
+.countup {
   display: flex;
   justify-content: space-around;
   text-align: center;
