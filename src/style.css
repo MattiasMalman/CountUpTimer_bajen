@@ -38,3 +38,7 @@ h2 {
 .seconds {
   font-size: 3rem;
 }
+
+.waiting {
+  height: 50vh;
+}
