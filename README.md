@@ -1,6 +1,6 @@
-## :stopwatch: Count Up Timer
+## :stopwatch: Count Up Timer (bajen-Edition)
 
-> A simple website written in HTML, CSS & Javascript that is counting up from the date that is specified in the Javascript file.  
+> A simple website written in JavaScript, HTML & CSS that is counting up from the date that is specified in the code.
 
 ## :scroll: Introduction
 
