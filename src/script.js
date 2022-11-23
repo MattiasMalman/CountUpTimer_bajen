@@ -1,6 +1,6 @@
 window.onload = function() {
   // Set time and date where the timer should count from
-  countUpFromTime("Oct 27, 2001 18:00:00", 'countup1');
+  countUpFromTime("Oct 21, 2001 17:00:00", 'countup1');
 };
 function countUpFromTime(countFrom, id) {
   countFrom = new Date(countFrom).getTime();
